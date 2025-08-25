@@ -1,12 +1,115 @@
 [build]
-  command = "npm install && npm run build"
+  command = "npm run netlify-build"
   publish = "dist"
+  functions = "netlify/functions"
 
 [build.environment]
+  # Node.js version
   NODE_VERSION = "20"
   NPM_VERSION = "10"
+  
+  # Build settings
+  CI = "false"
+  NODE_OPTIONS = "--max_old_space_size=4096"
+  
+  # Build output directory (relative to the root)
+  BUILD_DIR = "dist"
+  
+  # Environment variables
+  VITE_APP_NAME = "IZTECH Racing"
+  VITE_APP_URL = "https://iztech-racing.netlify.app"
 
+[dev]
+  framework = "vite"
+  command = "npm run dev"
+  targetPort = 3030
+  publish = "dist"
+  autoLaunch = true
+
+# SPA fallback for client-side routing
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+  force = true
+
+# Security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # Security headers
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    
+    # Content Security Policy
+    Content-Security-Policy = """
+      default-src 'self';
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.netlify.app;
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      img-src 'self' data: https:;
+      font-src 'self' https://fonts.gstatic.com;
+      connect-src 'self' https://*.netlify.app https://*.google-analytics.com;
+      frame-ancestors 'none';
+      form-action 'self';
+      base-uri 'self';
+    """.replace(/\s+/g, ' ').trim()
+
+# Cache control for static assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Cache control for HTML files
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Cache control for other files
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=600, stale-while-revalidate=300"
+
+# Pre-rendering configuration for better performance
+[build.processing]
+  skip_processing = false
+
+[build.processing.html]
+  pretty_urls = true
+  trailing_slash = false
+
+[build.processing.images]
+  compress = true
+  quality = 80
+
+[build.processing.js]
+  bundle = true
+  minify = true
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+# Environment variables for production
+[context.production.environment]
+  NODE_ENV = "production"
+  VITE_APP_ENV = "production"
+
+# Environment variables for preview (deploy previews)
+[context.deploy-preview.environment]
+  NODE_ENV = "staging"
+  VITE_APP_ENV = "staging"
+
+# Environment variables for branch deploys
+[context.branch-deploy.environment]
+  NODE_ENV = "development"
+  VITE_APP_ENV = "development"
+
+# Environment variables for local development
+[context.dev.environment]
+  NODE_ENV = "development"
+  VITE_APP_ENV = "development"

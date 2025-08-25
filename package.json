@@ -6,11 +6,13 @@
   "homepage": "https://Arda9995.github.io/iztech-racing",
   "scripts": {
     "dev": "vite --port 3030",
-    "build": "vite build",
+    "build": "npm run prepare-assets && vite build",
+    "prepare-assets": "node scripts/copy-assets.js && node scripts/fix-paths.js",
     "lint": "eslint .",
     "preview": "vite preview --port 3030",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "netlify-build": "npm install && npm run build"
   },
   "dependencies": {
     "i18next": "^25.4.2",
