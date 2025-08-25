@@ -1,0 +1,354 @@
+{
+  "header": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "team": "Ekip",
+    "vehicles": "Araçlar",
+    "gallery": "Galeri",
+    "magazine": "Dergi",
+    "sponsors": "Sponsorlar",
+    "contact": "İletişim"
+  },
+  "language": "English",
+  "hero": {
+    "title": "Ekibimize Hoş Geldiniz",
+    "subtitle": "Harekette Mühendislik Mükemmelliği"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "content": "Otomotiv mühendisliğinde yeniliğe ve mükemmelliğe adanmış tutkulu bir mühendis ekibiyiz."
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "members": "Takım Üyeleri",
+    "description": "Tutkulu mühendisler, tasarımcılar ve yenilikçilerden oluşan ekibimiz, öğrenci motor sporlarının ve mühendislik mükemmelliğinin sınırlarını zorlamak için birlikte çalışıyor."
+  },
+  "vehicles": {
+    "title": "Araçlarımız",
+    "description": "Yüksek performanslı araçlarımıza göz atın"
+  },
+  "sponsors": {
+    "title": "Sponsorlarımız",
+    "description": "Sponsorlarımızın desteği için minnettarız"
+  },
+  "contact": {
+    "title": "İletişim",
+    "name": "İsim",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Mesaj Gönder"
+  },
+  "roles": {
+    "team_captain": "Takım Kaptanı",
+    "chassis_&_ergonomics_team_leader": "Şasi & Ergonomi Takım Lideri",
+    "business_development": "Statik Takım Kaptanı",
+    "powertrain_team_leader": "Güç Aktarımı Takım Lideri",
+    "electronics_&_software_team_leader": "Elektronik & Yazılım Takım Lideri",
+    "electronics_&_software_team_member": "Elektronik & Yazılım Takım Üyesi",
+    "vehicle_dynamics_team_member": "Araç Dinamiği Takım Üyesi",
+    "powertrain_team_member": "Güç Aktarımı Takım Üyesi",
+    "chassis_&_ergonomics_team_member": "Şasi & Ergonomi Takım Üyesi",
+    "aerodynamics_team_member": "Aerodinamik Takım Üyesi",
+    "organization_team_member": "Organizasyon Takım Üyesi",
+    "vehicle_dynamics_team_leader": "Araç Dinamiği Takım Lideri",
+    "aerodynamics_team_leader": "Aerodinamik Takım Lideri",
+    "organization_team_leader": "Organizasyon Takım Lideri"
+  },
+  "departments": {
+    "mechanical_engineering": "Makine Mühendisliği",
+    "industrial_design": "Endüstriyel Tasarım",
+    "energy_systems_engineering": "Enerji Sistemleri Mühendisliği",
+    "civil_engineering": "İnşaat Mühendisliği",
+    "photonics_department": "Fotonik Departmanı",
+    "electronics_&_communication_engineering": "Elektronik & Haberleşme Mühendisliği",
+    "mathematics_department": "Matematik Departmanı",
+    "materials_engineering": "Malzeme Mühendisliği",
+    "computer_engineering": "Bilgisayar Mühendisliği"
+  },
+  "vehicles": {
+    "title": "Araçlarımız",
+    "description": "Her araç, mühendislik mükemmelliğinin, yenilikçi tasarımın ve performans peşindeki kararlılığın yıllar süren çalışmalarını temsil eder. Tasarımdan yarışa, pistte fark yaratan makineler inşa ediyoruz.",
+    "specs": {
+      "power": "Güç",
+      "weight": "Ağırlık",
+      "topSpeed": "Maksimum Hız",
+      "acceleration": "0-35 km/s"
+    },
+    "keyFeatures": "Önemli Özellikler",
+    "categories": {
+      "formulaStudent": "Formula Student",
+      "prototypeDevelopment": "Prototip Geliştirme",
+      "mainCarDevelopment": "Formula Student Ana Araç Geliştirme"
+    },
+    "features": {
+      "openDifferential": "Açık Diferansiyel",
+      "doubleWishbone": "Çift Salıncaklı Süspansiyon Sistemi",
+      "aluminumWheels": "13 İnç Alüminyum Jantlar",
+      "studentDisplay": "Öğrenci Tasarımlı Gösterge Paneli ve Veri Kaydedici",
+      "spaceFrame": "Uzay kafes şasi",
+      "decoupledSuspension": "Ayrık süspansiyon",
+      "coolingSystem": "Özel yapım soğutma sistemi",
+      "aeroPackage": "Aerodinamik paket",
+      "lsdDifferential": "Kilitli Diferansiyel",
+      "suspension": "Çift salıncaklı süspansiyon",
+      "comingSoon": "Çok yakında..."
+    },
+    "descriptions": {
+      "freakmobile": "Dehşetsel",
+      "comingSoon": "Çok Yakında..."
+    }
+  },
+  "sponsors": {
+    "title": "Sponsorlarımız",
+    "description": "Yenilikçilik, mükemmellik ve otomotiv mühendisliğinin geleceği konusundaki tutkumuzu paylaşan sektör liderleriyle işbirliği yapmaktan gurur duyuyoruz.",
+    "tiers": {
+      "platinum": {
+        "title": "Platin Sponsorlar",
+        "description": "Her şeyi mümkün kılan birincil ortaklarımız"
+      },
+      "gold": {
+        "title": "Altın Sponsorlar",
+        "description": "Yarış çabalarımızın büyük destekçileri"
+      },
+      "silver": {
+        "title": "Gümüş Sponsorlar",
+        "description": "Yolculuğumuzda değerli ortaklarımız"
+      },
+      "bronze": {
+        "title": "Bronz Sponsorlar",
+        "description": "Yolculuğumuzda değerli ortaklarımız"
+      },
+      "supporters": {
+        "title": "Destekçiler",
+        "description": "Yolculuğumuzda değerli ortaklarımız"
+      }
+    },
+    "benefits": {
+      "title": "İş Ortaklığı Avantajları",
+      "subtitle": "Misyonumuza katılın ve IZTECH Racing ile işbirliğinin avantajlarını keşfedin",
+      "innovation": {
+        "title": "Yenilik İşbirliği",
+        "description": "En ileri otomotiv teknolojileri üzerinde işbirliği yapın"
+      },
+      "visibility": {
+        "title": "Marka Görünürlüğü",
+        "description": "Markanızı uluslararası yarışmalarda ve etkinliklerde sergileyin"
+      },
+      "talent": {
+        "title": "Yetkinlik Havuzu",
+        "description": "En iyi mühendislik öğrencileri ve geleceğin çalışanlarıyla bağlantı kurun"
+      },
+      "community": {
+        "title": "Toplumsal Etki",
+        "description": "Eğitimi destekleyin ve yeni nesil mühendislere ilham verin"
+      }
+    },
+    "packages": {
+      "title": "Sponsor Olun",
+      "description": "Yarış ailemize katılmaya hazır mısınız? İş hedeflerinize ve bütçenize uygun esnek sponsorluk paketleri sunuyoruz. Birlikte geleceği inşa edelim.",
+      "mostPopular": "En Popüler",
+      "supporter": {
+        "title": "Destekçi",
+        "price": "200€ - 800€"
+      },
+      "bronze": {
+        "title": "Bronz",
+        "price": "800€ - 1.500€"
+      },
+      "silver": {
+        "title": "Gümüş",
+        "price": "1.500€ - 3.500€"
+      },
+      "gold": {
+        "title": "Altın",
+        "price": "3.500€ - 7.000€"
+      },
+      "platinum": {
+        "title": "Platin",
+        "price": "7.000€+"
+      },
+      "features": {
+        "website": "Web sitesinde isminiz",
+        "socialMedia": "Sosyal medya teşekkürü",
+        "newsletter": "Bülten güncellemeleri",
+        "logoOnVehicle": "Araç üzerinde logo",
+        "websiteRecognition": "Web sitesinde tanıtım",
+        "socialMediaMentions": "Sosyal medya anıları",
+        "eventUpdates": "Etkinlik güncellemeleri",
+        "prominentLogo": "Ön planda logo görünümü",
+        "dedicatedPage": "Özel web sayfası",
+        "competitionReports": "Yarışma raporları",
+        "merchandise": "Takım ürünleri",
+        "vipAccess": "VIP etkinlik erişimi",
+        "premiumPlacement": "Premium logo yerleşimi",
+        "featureSpotlight": "Takım spot ışığında öne çıkma",
+        "exclusiveContent": "Özel içerik erişimi",
+        "presentationOpportunity": "Sunum fırsatı",
+        "premiumMerchandise": "Premium takım ürünleri",
+        "titleSponsorship": "Başlık sponsoru seçenekleri",
+        "customPackage": "Özel sponsorluk paketi",
+        "exclusiveRights": "Özel kategori hakları",
+        "executiveAccess": "Üst düzey yönetim erişimi",
+        "premiumBranding": "Premium marka görünürlüğü fırsatları"
+      },
+      "buttons": {
+        "join": "Destekçi Olun",
+        "getStarted": "Hemen Başla",
+        "choose": "Gümüş Paketi Seçin",
+        "goGold": "Altın Pakete Geçin",
+        "contactUs": "İletişime Geçin"
+      }
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "description": "15 Ekim 2024'te kurulan IZTECH RACING, İzmir Yüksek Teknoloji Enstitüsü'nün Formula Student takımıdır. Misyonumuz, sponsorlarımızın desteğiyle bir Formula SAE aracı tasarlayıp üreterek, 2026 Formula Student İspanya ile başlamak üzere üniversitemizi ve ülkemizi uluslararası mühendislik yarışmalarında temsil etmektir. Formula Student yarışmaları dünyanın en prestijli mühendislik yarışmaları olarak kabul edilmektedir. Akademik danışmanlarımız Dr. Büşra Karaş ve Dr. Özgür Günelsu'dur.",
+    "journey": {
+      "title": "Yolculuğumuz",
+      "paragraph1": "Formula SAE (Society of Automotive Engineers), 40 yılı aşkın süredir üniversiteler arasında düzenlenen bir yarışmadır. Bu yarışma, dünyanın birçok ülkesinden öğrencilerin Formula tarzı tek kişilik küçük yarış araçları tasarlayıp üreterek katıldıkları bir mühendislik yarışmasıdır. Formula SAE, öğrencilerin sınıfta öğrendiklerini gerçek dünya projelerine uygulamalarını sağlar. Dört yarışma kategorisi vardır: içten yanmalı motorlu, hibrit, elektrikli ve sürücüsüz araçlar.",
+      "paragraph2": "İlk katılımından bu yana, IZTECH RACING ilk elektrikli prototip aracı Freakmobile'i 3 aydan kısa sürede hayata geçirmiştir. Yarış aracı üzerindeki çalışmalar devam etmektedir.",
+      "tagline": "Geleceği Mühendisliyoruz"
+    },
+    "values": {
+      "design": {
+        "title": "Tasarım",
+        "description": "Tasarım hedeflerimizi belirledikten sonra, sponsorlarımızın sağladığı CAD yazılımlarını kullanarak modeller oluşturur ve simülasyon programlarıyla optimize ederiz. Tüm aracın sanal bir modelini oluşturmak, üretim sürecini kolaylaştırır."
+      },
+      "reviews": {
+        "title": "Tasarım İncelemeleri",
+        "description": "Tasarım süreci boyunca, takım üyelerinden, akademik danışmanlardan ve sponsorlardan geri bildirim almak için tasarım incelemeleri yaparız. Bu geri bildirimler doğru yolda olduğumuzdan emin olmamızı sağlar ve yeni üyeler için değerli öğrenme fırsatları sunar."
+      },
+      "manufacturing": {
+        "title": "Üretim",
+        "description": "Sponsorlarımız tarafından sağlanan ve kendi atölyemizde üretilen parçaları bir araya getiririz. Hassas bileşenler üreterek, yenilikçi tasarımı üretilebilirlikle dengelemekteyiz."
+      },
+      "test": {
+        "title": "Test",
+        "description": "Test ve tasarıma eşit önem veriyoruz. Düzenli test günleriyle aracın performansını, sürüş dinamiklerini ve kontrol sistemlerini sürekli iyileştirirken, sürücülerimizin de değerli deneyim kazanmasını ve yarışma koşullarına tam olarak hazır olmasını sağlıyoruz."
+      }
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "statement": "\"Rekabetçi motor sporları aracılığıyla yeni nesil mühendislere ilham vermek, yenilikçiliği, takım çalışmasını ve mükemmelliği teşvik etmek ve IZTECH'i dünya çapındaki yarış pistlerinde gurur ve kararlılıkla temsil etmek.\""
+    },
+    "imageAlt": "IZTECH Racing ekibi"
+  },
+  "team": {
+    "title": "Ekibimizle Tanışın",
+    "description": "Motor sporlarının geleceğini inşa etmek için farklı disiplinlerden gelen tutkulu öğrenciler.",
+    "categories": {
+      "teamCaptain": "Takım Kaptanı",
+      "electronics": "Elektronik ve Yazılım Ekibi",
+      "vehicleDynamics": "Araç Dinamiği Ekibi",
+      "chassis": "Şasi ve Ergonomi Ekibi",
+      "powertrain": "Güç Aktarma Organları Ekibi",
+      "aerodynamics": "Aerodinamik Ekibi",
+      "organization": "Organizasyon Ekibi",
+      "businessDev": "Statik Takım Kaptanı",
+      "others": "Diğer"
+    },
+    "roles": {
+      "teamCaptain": "Takım Kaptanı",
+      "teamLeader": "Takım Lideri",
+      "teamMember": "Takım Üyesi"
+    },
+    "defaultBio": "Mühendislik ve motor sporlarında yenilik konusunda tutkulu.",
+    "previousMember": "Önceki üye",
+    "nextMember": "Sonraki üye"
+  },
+  "gallery": {
+    "title": "Fotoğraf",
+    "titleHighlight": "Galerisi",
+    "subtitle": "Yolculuğumuzdan kareler: atölyeler, yarışlar ve unutulmaz anlar.",
+    "alt": "Galeri görseli {{number}}",
+    "previous": "Önceki fotoğraf",
+    "next": "Sonraki fotoğraf",
+    "goTo": "{{number}}. fotoğrafa git"
+  },
+  "footer": {
+    "logoAlt": "IZTECH Racing Logosu",
+    "description": "Mühendislik mükemmelliği yarış tutkusuyla buluşuyor. Öğrenci motor sporlarının geleceğiyiz, sınırları zorluyor ve yeniliğe ilham veriyoruz.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "links": {
+      "about": "Hakkımızda",
+      "team": "Ekibimiz",
+      "vehicles": "Araçlar",
+      "gallery": "Galeri",
+      "sponsors": "Sponsorlar",
+      "contact": "İletişim"
+    },
+    "contact": {
+      "title": "İletişim Bilgileri",
+      "location": "IYTE Kampüsü",
+      "address": "Urla, İzmir, Türkiye"
+    },
+    "copyright": "© {{year}} IZTECH Racing. Tüm hakları saklıdır. Motor sporları tutkusuyla inşa edilmiştir.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "cookie": "Çerez Politikası"
+  },
+  "contact": {
+    "title": "İletişime",
+    "titleHighlight": "Geçin",
+    "subtitle": "Yarış ailemize katılmaya, sponsor olmaya veya ekibimiz hakkında daha fazla bilgi edinmeye hazır mısınız? Sizden haber almak isteriz.",
+    "info": {
+      "emailTitle": "Bize E-posta Gönderin",
+      "emailDescription": "İş birlikleri, sorularınız veya genel bilgi için bizimle iletişime geçin",
+      "visitTitle": "Bizi Ziyaret Edin",
+      "visitDescription": "Atölyemizi görmeye ve ekibimizle tanışmaya gelin",
+      "address": "İzmir Yüksek Teknoloji Enstitüsü\nMakine Mühendisliği Bölümü\nGülbahçe Mahallesi, Gülbahçe Caddesi\n35430 Urla / İzmir, Türkiye"
+    },
+    "map": {
+      "title": "Makine Mühendisliği Fakültesi",
+      "iframeTitle": "IYTE Haritası"
+    }
+  },
+  "magazines": {
+    "title": "Dergiler",
+    "and": "ve",
+    "recap": "Özetler",
+    "subtitle": "IZTECH Racing'in dergilerini, yolculuğunu ve başarılarını keşfedin.",
+    "viewPdf": "PDF'yi Görüntüle",
+    "close": "Kapat",
+    "pdfTitle": "Dergi PDF Görüntüleyici",
+    "may": {
+      "title": "IZTECH RACING Mayıs Özeti",
+      "description": "IZTECH Racing'in Formula Student yarışmalarına yolculuğuna derinlemesine bir bakış."
+    },
+    "june": {
+      "title": "IZTECH RACING Haziran Özeti",
+      "description": "Teknik ilerlemelerimizi ve öğrenci odaklı yeniliklerimizi sergiliyoruz."
+    },
+    "july": {
+      "title": "IZTECH RACING Temmuz Özeti",
+      "description": "IZTECH Racing, geleceğin mühendislerini nasıl yetiştiriyor?"
+    }
+  },
+  "hero": {
+    "title": {
+      "firstLine": "IZTECH",
+      "secondLine": "RACING"
+    },
+    "subtitle": "Mühendislik Mükemmelliği, Yarış Tutkusu. Yeniliğin pistle buluştuğu ve hayallerin gerçeğe dönüştüğü yer.",
+    "stats": {
+      "championships": {
+        "value": "Yakında",
+        "label": "Şampiyonluk"
+      },
+      "members": {
+        "value": "28",
+        "label": "Takım Üyesi"
+      },
+      "horsepower": {
+        "value": "80",
+        "label": "Beygir"
+      },
+      "yearsActive": {
+        "value": "1",
+        "label": "Yıllık Deneyim"
+      }
+    },
+    "scrollDown": "Aşağı kaydır"
+  }
+}
+

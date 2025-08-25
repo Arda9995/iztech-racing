@@ -1,0 +1,353 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "team": "Team",
+    "vehicles": "Vehicles",
+    "gallery": "Gallery",
+    "magazine": "Magazine",
+    "sponsors": "Sponsors",
+    "contact": "Contact"
+  },
+  "language": "Türkçe",
+  "hero": {
+    "title": "Welcome to Our Team",
+    "subtitle": "Engineering Excellence in Motion"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "We are a team of passionate engineers dedicated to innovation and excellence in automotive engineering."
+  },
+  "team": {
+    "title": "Our Team",
+    "members": "Team Members",
+    "description": "Our diverse team of passionate engineers, designers, and innovators work together to push the boundaries of student motorsport and engineering excellence."
+  },
+  "vehicles": {
+    "title": "Our Vehicles",
+    "description": "Check out our high-performance vehicles"
+  },
+  "sponsors": {
+    "title": "Our Sponsors",
+    "description": "We're grateful for the support of our sponsors"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "roles": {
+    "team_captain": "Team Captain",
+    "chassis_&_ergonomics_team_leader": "Chassis & Ergonomics Team Leader",
+    "business_team_leader": "Static Team Leader",
+    "powertrain_team_leader": "Powertrain Team Leader",
+    "electronics_&_software_team_leader": "Electronic & Software Team Leader",
+    "electronics_&_software_team_member": "Elektronik & Software Team Member",
+    "vehicle_dynamics_team_member": "Vehicle Dynamics Team Member",
+    "powertrain_team_member": "Powertrain Team Member",
+    "chassis_&_ergonomics_team_member": "Chassis & Ergonomics Team Member",
+    "aerodynamics_team_member": "Aerodynamics Team Member",
+    "organization_team_member": "Organization Team Member",
+    "vehicle_dynamics_team_leader": "Vehicle Dynamics Team Leader",
+    "aerodynamics_team_leader":"Aerodynamics Team Leader",
+    "organization_team_leader": "Organization Team Leader"
+  },
+  "departments": {
+    "mechanical_engineering": "Mechanical Engineering",
+    "industrial_design": "Industrial Design",
+    "energy_systems_engineering": "Energy Systems Engineering",
+    "civil_engineering": "Civil Engineering",
+    "photonics_department": "Photonics Department",
+    "electronics_&_communication_engineering": "Electronics & Communication Engineering",
+    "mathematics_department": "Mathematics Department",
+    "materials_engineering": "Materials Engineering",
+    "computer_engineering": "Computer Engineering"
+  },
+  "vehicles": {
+    "title": "Our Vehicles",
+    "description": "Each vehicle represents years of engineering excellence, innovative design, and relentless pursuit of performance. From concept to competition, we build machines that dominate the track.",
+    "specs": {
+      "power": "Power",
+      "weight": "Weight",
+      "topSpeed": "Top Speed",
+      "acceleration": "0-35 km/h"
+    },
+    "keyFeatures": "Key Features",
+    "categories": {
+      "formulaStudent": "Formula Student",
+      "prototypeDevelopment": "Prototype Development",
+      "mainCarDevelopment": "Formula Student Main Car Development"
+    },
+    "features": {
+      "openDifferential": "Open Differential",
+      "doubleWishbone": "Double Wishbone Suspension System",
+      "aluminumWheels": "13 Inch Aluminum Wheels",
+      "studentDisplay": "Student Designed Display and Datalogger",
+      "spaceFrame": "Space frame chassis",
+      "decoupledSuspension": "Decoupled suspension",
+      "coolingSystem": "Custom made cooling system",
+      "aeroPackage": "Aerodynamic package",
+      "lsdDifferential": "LSD Differential",
+      "suspension": "Double wishbone suspension",
+      "comingSoon": "Coming soon..."
+    },
+    "descriptions": {
+      "freakmobile": "Dehşetsel",
+      "comingSoon": "Coming Soon..."
+    }
+  },
+  "sponsors": {
+    "title": "Our Sponsors",
+    "description": "We're proud to partner with industry leaders who share our passion for innovation, excellence, and the future of automotive engineering.",
+    "tiers": {
+      "platinum": {
+        "title": "Platinum Sponsors",
+        "description": "Our primary partners who make everything possible"
+      },
+      "gold": {
+        "title": "Gold Sponsors",
+        "description": "Major supporters of our racing endeavors"
+      },
+      "silver": {
+        "title": "Silver Sponsors",
+        "description": "Valued partners in our journey"
+      },
+      "bronze": {
+        "title": "Bronze Sponsors",
+        "description": "Valued partners in our journey"
+      },
+      "supporters": {
+        "title": "Supporters",
+        "description": "Valued partners in our journey"
+      }
+    },
+    "benefits": {
+      "title": "Partnership Benefits",
+      "subtitle": "Join our mission and discover the advantages of partnering with IZTECH Racing",
+      "innovation": {
+        "title": "Innovation Partnership",
+        "description": "Collaborate on cutting-edge automotive technologies"
+      },
+      "visibility": {
+        "title": "Brand Visibility",
+        "description": "Showcase your brand at international competitions and events"
+      },
+      "talent": {
+        "title": "Talent Pipeline",
+        "description": "Connect with top engineering students and future employees"
+      },
+      "community": {
+        "title": "Community Impact",
+        "description": "Support education and inspire the next generation of engineers"
+      }
+    },
+    "packages": {
+      "title": "Become a Sponsor",
+      "description": "Ready to join our racing family? We offer flexible sponsorship packages tailored to your business goals and budget. Let's build the future together.",
+      "mostPopular": "Most Popular",
+      "supporter": {
+        "title": "Supporter",
+        "price": "€200 - €800"
+      },
+      "bronze": {
+        "title": "Bronze",
+        "price": "€800 - €1,500"
+      },
+      "silver": {
+        "title": "Silver",
+        "price": "€1,500 - €3,500"
+      },
+      "gold": {
+        "title": "Gold",
+        "price": "€3,500 - €7,000"
+      },
+      "platinum": {
+        "title": "Platinum",
+        "price": "€7,000+"
+      },
+      "features": {
+        "website": "Name on website",
+        "socialMedia": "Social media thank you",
+        "newsletter": "Newsletter updates",
+        "logoOnVehicle": "Logo on vehicle",
+        "websiteRecognition": "Website recognition",
+        "socialMediaMentions": "Social media mentions",
+        "eventUpdates": "Event updates",
+        "prominentLogo": "Prominent logo placement",
+        "dedicatedPage": "Dedicated webpage",
+        "competitionReports": "Competition reports",
+        "merchandise": "Team merchandise",
+        "vipAccess": "VIP event access",
+        "premiumPlacement": "Premium logo placement",
+        "featureSpotlight": "Feature in team spotlight",
+        "exclusiveContent": "Exclusive content access",
+        "presentationOpportunity": "Presentation opportunity",
+        "premiumMerchandise": "Premium team merchandise",
+        "titleSponsorship": "Title sponsorship options",
+        "customPackage": "Custom sponsorship package",
+        "exclusiveRights": "Exclusive category rights",
+        "executiveAccess": "Executive team access",
+        "premiumBranding": "Premium branding opportunities"
+      },
+      "buttons": {
+        "join": "Join as Supporter",
+        "getStarted": "Get Started",
+        "choose": "Choose Silver",
+        "goGold": "Go Gold",
+        "contactUs": "Contact Us"
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "description": "Established on October 15, 2024, IZTECH RACING is the Formula Student team of İzmir Institute of Technology, Turkey. Our mission is to design and manufacture a Formula SAE vehicle, funded by sponsors, to represent our university and country in international engineering competitions, starting with Formula Student Spain 2026. Formula Student competitions are considered to be the most prestigious engineering competitions in the world. Our faculty advisors are Dr. Büşra Karaş and Dr. Özgür Günelsu.",
+    "journey": {
+      "title": "Our Journey",
+      "paragraph1": "Formula SAE (Society of Automotive Engineers) is a competition held among universities for over 40 years. This competition is an engineering competition where students from many countries around the world participate by designing and producing Formula-type single-seater small racing vehicles. Formula SAE pushes students to apply what they learn in the classroom to a real-world project. There are four competition categories: internal combustion, hybrid, electric, and driverless.",
+      "paragraph2": "Since its first recruitment, IZTECH RACING has brought its first electric prototype vehicle, Freakmobile, to life in less than 3 months. Work on the race car continues.",
+      "tagline": "Engineering the Future"
+    },
+    "values": {
+      "design": {
+        "title": "Design",
+        "description": "After setting our design goals, we use CAD software provided by our sponsors to create models, which we then optimize using simulation programs. Creating a virtual model of the entire vehicle facilitates the manufacturing process."
+      },
+      "reviews": {
+        "title": "Design Reviews",
+        "description": "Throughout the design process, we conduct design reviews to gather feedback from team members, faculty advisors, and sponsors. This feedback ensures we are on the right track and provides valuable learning opportunities for new members."
+      },
+      "manufacturing": {
+        "title": "Manufacturing",
+        "description": "We assemble parts provided by our sponsors and produced using their facilities in our own workshop. By manufacturing precision components, we balance innovative design with manufacturability."
+      },
+      "test": {
+        "title": "Test",
+        "description": "We place equal importance on testing and design. Through regular test days, we continuously improve the vehicle's performance, driving dynamics, and control systems, while also ensuring our drivers gain valuable experience and are fully prepared for competition conditions."
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "statement": "\"To inspire the next generation of engineers through competitive motorsport, fostering innovation, teamwork, and excellence while representing IZTECH with pride and determination on racing circuits worldwide.\""
+    },
+    "imageAlt": "IZTECH Racing team"
+  },
+  "team": {
+    "title": "Meet The Team",
+    "description": "Passionate students from various disciplines working together to build the future of motorsports.",
+    "categories": {
+      "teamCaptain": "Team Captain",
+      "electronics": "Electronics & Software Team",
+      "vehicleDynamics": "Vehicle Dynamics Team",
+      "chassis": "Chassis & Ergonomics Team",
+      "powertrain": "Powertrain Team",
+      "aerodynamics": "Aerodynamics Team",
+      "organization": "Organization Team",
+      "businessDev": "Business Development",
+      "others": "Others"
+    },
+    "roles": {
+      "teamCaptain": "Team Captain",
+      "teamLeader": "Team Leader",
+      "teamMember": "Team Member"
+    },
+    "defaultBio": "Passionate about engineering and innovation in motorsports.",
+    "previousMember": "Previous team member",
+    "nextMember": "Next team member"
+  },
+  "gallery": {
+    "title": "Photo",
+    "titleHighlight": "Gallery",
+    "subtitle": "A glimpse into our journey: workshops, races, and unforgettable moments.",
+    "alt": "Gallery image {{number}}",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "goTo": "Go to photo {{number}}"
+  },
+  "footer": {
+    "logoAlt": "IZTECH Racing Logo",
+    "description": "Engineering excellence meets racing passion. We are the future of student motorsport, pushing boundaries and inspiring innovation.",
+    "quickLinks": "Quick Links",
+    "links": {
+      "about": "About Us",
+      "team": "Our Team",
+      "vehicles": "Vehicles",
+      "gallery": "Gallery",
+      "sponsors": "Sponsors",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "location": "IZTECH Campus",
+      "address": "Urla, İzmir, Turkey"
+    },
+    "copyright": "© {{year}} IZTECH Racing. All rights reserved. Built with passion for motorsport.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookie": "Cookie Policy"
+  },
+  "contact": {
+    "title": "Get In",
+    "titleHighlight": "Touch",
+    "subtitle": "Ready to join our racing family, become a sponsor, or learn more about our team? We'd love to hear from you.",
+    "info": {
+      "emailTitle": "Email Us",
+      "emailDescription": "Get in touch for partnerships, inquiries, or general information",
+      "visitTitle": "Visit Us",
+      "visitDescription": "Come see our workshop and meet the team in person",
+      "address": "İzmir Yüksek Teknoloji Enstitüsü\nMakine Mühendisliği Bölümü\nGülbahçe Mahallesi, Gülbahçe Caddesi\n35430 Urla / İzmir, Türkiye"
+    },
+    "map": {
+      "title": "Mechanical Engineering Faculty",
+      "iframeTitle": "IZTECH Map"
+    }
+  },
+  "magazines": {
+    "title": "Magazines",
+    "and": "&",
+    "recap": "Recap",
+    "subtitle": "Explore the magazines and articles featuring IZTECH Racing, our journey, and achievements.",
+    "viewPdf": "View PDF",
+    "close": "Close",
+    "pdfTitle": "Magazine PDF Viewer",
+    "may": {
+      "title": "IZTECH RACING May Recap",
+      "description": "An in-depth look at IZTECH Racing's journey into Formula Student competitions."
+    },
+    "june": {
+      "title": "IZTECH RACING June Recap",
+      "description": "Showcasing our technical advancements and student-driven innovations."
+    },
+    "july": {
+      "title": "IZTECH RACING July Recap",
+      "description": "How IZTECH Racing is preparing the next generation of engineers."
+    }
+  },
+  "hero": {
+    "title": {
+      "firstLine": "IZTECH",
+      "secondLine": "RACING"
+    },
+    "subtitle": "Engineering Excellence, Racing Passion. Where innovation meets the track and dreams become reality.",
+    "stats": {
+      "championships": {
+        "value": "Coming Soon",
+        "label": "Championships"
+      },
+      "members": {
+        "value": "28",
+        "label": "Team Members"
+      },
+      "horsepower": {
+        "value": "80",
+        "label": "HP"
+      },
+      "yearsActive": {
+        "value": "1",
+        "label": "Years Active"
+      }
+    },
+    "scrollDown": "Scroll down"
+  }
+}
