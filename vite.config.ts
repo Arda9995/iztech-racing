@@ -1,6 +1,9 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-import { resolve } from 'path';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 type AssetInfo = {
   name?: string;
@@ -13,7 +16,7 @@ export default defineConfig({
   base: '/',
   resolve: {
     alias: {
-      '@': resolve(__dirname, './src'),
+      '@': path.resolve(__dirname, './src'),
     },
   },
   publicDir: 'public',
@@ -43,7 +46,7 @@ export default defineConfig({
     },
   },
   server: {
-    port: 3000,
+    port: 3030,
     strictPort: true,
     open: true,
   },
